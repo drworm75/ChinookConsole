@@ -9,7 +9,7 @@ namespace ChinookConsoleApp
     {
         public void Add()
         {
-            Console.WriteLine("Enter first name:");
+            Console.WriteLine("Enter First Name:");
             var x = Console.ReadLine();
             Console.WriteLine("Enter last name:");
             var y = Console.ReadLine();
